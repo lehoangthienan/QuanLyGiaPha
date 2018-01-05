@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B483CA86-6200-4D52-8870-5D021A326A2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CayGiaPha</RootNamespace>
+    <AssemblyName>CayGiaPha</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v16.1" />
+    <Reference Include="DevExpress.Data.v16.1" />
+    <Reference Include="DevExpress.Printing.v16.1.Core" />
+    <Reference Include="DevExpress.Utils.v16.1" />
+    <Reference Include="DevExpress.XtraBars.v16.1" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v16.1" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DanhSachTVMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachTVMat.Designer.cs">
+      <DependentUpon>DanhSachTVMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhSachTVTang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachTVTang.Designer.cs">
+      <DependentUpon>DanhSachTVTang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TongDanhSachTVTang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TongDanhSachTVTang.Designer.cs">
+      <DependentUpon>TongDanhSachTVTang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TongDanhSachTVMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TongDanhSachTVMat.Designer.cs">
+      <DependentUpon>TongDanhSachTVMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKy.designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportToExcel.cs" />
+    <Compile Include="ExportToExcel_GTV.cs" />
+    <Compile Include="ExportToExcel_LTT.cs" />
+    <Compile Include="ExportToExcel_TTVofYear.cs" />
+    <Compile Include="ExportToExcel_TVGofYear.cs" />
+    <Compile Include="ExportToExcel_TVT.cs" />
+    <Compile Include="QuanLyGiaPha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyGiaPha.Designer.cs">
+      <DependentUpon>QuanLyGiaPha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GhiNhanKetThuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GhiNhanKetThuc.Designer.cs">
+      <DependentUpon>GhiNhanKetThuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GhiNhanThanhTich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GhiNhanThanhTich.Designer.cs">
+      <DependentUpon>GhiNhanThanhTich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapThuyTo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapThuyTo.designer.cs">
+      <DependentUpon>NhapThuyTo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TangGiamTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TangGiamTV.Designer.cs">
+      <DependentUpon>TangGiamTV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhTichTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhTichTV.Designer.cs">
+      <DependentUpon>ThanhTichTV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiQuyDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiQuyDinh.designer.cs">
+      <DependentUpon>ThayDoiQuyDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiThongTin.Designer.cs">
+      <DependentUpon>ThayDoiThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemNN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemNN.Designer.cs">
+      <DependentUpon>ThemNN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemTV.Designer.cs">
+      <DependentUpon>ThemTV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinTV.Designer.cs">
+      <DependentUpon>ThongTinTV.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DanhSachTVMat.resx">
+      <DependentUpon>DanhSachTVMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhSachTVTang.resx">
+      <DependentUpon>DanhSachTVTang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TongDanhSachTVTang.resx">
+      <DependentUpon>TongDanhSachTVTang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TongDanhSachTVMat.resx">
+      <DependentUpon>TongDanhSachTVMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKy.resx">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyGiaPha.resx">
+      <DependentUpon>QuanLyGiaPha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GhiNhanKetThuc.resx">
+      <DependentUpon>GhiNhanKetThuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GhiNhanThanhTich.resx">
+      <DependentUpon>GhiNhanThanhTich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapThuyTo.resx">
+      <DependentUpon>NhapThuyTo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TangGiamTV.resx">
+      <DependentUpon>TangGiamTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThanhTichTV.resx">
+      <DependentUpon>ThanhTichTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiQuyDinh.resx">
+      <DependentUpon>ThayDoiQuyDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiThongTin.resx">
+      <DependentUpon>ThayDoiThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNN.resx">
+      <DependentUpon>ThemNN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemTV.resx">
+      <DependentUpon>ThemTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinTV.resx">
+      <DependentUpon>ThongTinTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start-Menu-Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy-Small-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamworkshop_webupload_previewfile_406132691_preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trophy-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTrophy-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTrophy.ver1-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddCemetery-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trophy-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cemetery-32-TK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gavel-Law-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-window-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\law-logo-design_1969846.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ramdisk-crop_168283893_DrFIECK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18280897_1122211477924497_1258277800_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-b-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PadLock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-Shutdown-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{086cde4b-15b9-4314-8594-18b968a4ed32}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{a4d65b6b-fe04-4140-a6c7-1a27f1df86d8}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\family-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headstone-309454_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gavel-Law-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-scroll-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

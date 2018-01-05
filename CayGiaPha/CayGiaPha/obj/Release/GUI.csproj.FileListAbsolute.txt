@@ -1,0 +1,375 @@
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe.config
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.pdb
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\BUS.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.BonusSkins.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DTO.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DAL.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\BUS.pdb
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DTO.pdb
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DAL.pdb
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\GUI.csprojResolveAssemblyReference.cache
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVMat.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVTang.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVTang.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVMat.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangKy.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangNhap.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuanLyGiaPha.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanKetThuc.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanThanhTich.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.NhapThuyTo.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.Properties.Resources.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TangGiamTV.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThanhTichTV.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuyDinh.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThayDoiMatKhau.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemNN.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemTV.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThongTinTV.resources
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\GUI.csproj.GenerateResource.Cache
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe.licenses
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe
+E:\CayGiaPha_source\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe.config
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\BUS.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.BonusSkins.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DTO.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DAL.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\BUS.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DTO.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DAL.pdb
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\GUI.csprojResolveAssemblyReference.cache
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVMat.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVTang.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVTang.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVMat.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangKy.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangNhap.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuanLyGiaPha.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanKetThuc.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanThanhTich.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.NhapThuyTo.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.Properties.Resources.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TangGiamTV.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThanhTichTV.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuyDinh.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThayDoiMatKhau.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemNN.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemTV.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThongTinTV.resources
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\GUI.csproj.GenerateResource.Cache
+E:\CayGiaPha_source\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe.licenses
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe.config
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.exe
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\CayGiaPha.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\BUS.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.BonusSkins.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DTO.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DAL.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\BUS.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DTO.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Data.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Printing.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Utils.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraBars.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraEditors.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraGrid.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraLayout.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraScheduler.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DAL.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Office.v16.1.Core.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVMat.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DanhSachTVTang.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVTang.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TongDanhSachTVMat.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangKy.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.DangNhap.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuanLyGiaPha.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanKetThuc.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.GhiNhanThanhTich.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.NhapThuyTo.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.Properties.Resources.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.TangGiamTV.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThanhTichTV.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.QuyDinh.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThayDoiMatKhau.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemNN.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThemTV.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.ThongTinTV.resources
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\CayGiaPha\obj\Release\CayGiaPha.exe.licenses

@@ -1,0 +1,9 @@
+E:\CayGiaPha_source\CayGiaPha\DTO\bin\Release\DTO.dll
+E:\CayGiaPha_source\CayGiaPha\DTO\bin\Release\DTO.pdb
+E:\CayGiaPha_source\CayGiaPha\DTO\obj\Release\DTO.dll
+E:\CayGiaPha_source\CayGiaPha\DTO\obj\Release\DTO.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DTO\bin\Release\DTO.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DTO\bin\Release\DTO.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DTO\obj\Release\DTO.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DTO\obj\Release\DTO.pdb

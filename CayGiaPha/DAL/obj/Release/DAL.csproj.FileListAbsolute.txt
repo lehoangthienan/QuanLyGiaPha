@@ -1,0 +1,14 @@
+E:\CayGiaPha_source\CayGiaPha\DAL\bin\Release\DAL.dll
+E:\CayGiaPha_source\CayGiaPha\DAL\bin\Release\DAL.pdb
+E:\CayGiaPha_source\CayGiaPha\DAL\bin\Release\DTO.dll
+E:\CayGiaPha_source\CayGiaPha\DAL\bin\Release\DTO.pdb
+E:\CayGiaPha_source\CayGiaPha\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\CayGiaPha_source\CayGiaPha\DAL\obj\Release\DAL.dll
+E:\CayGiaPha_source\CayGiaPha\DAL\obj\Release\DAL.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\bin\Release\DAL.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\bin\Release\DAL.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\bin\Release\DTO.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\bin\Release\DTO.pdb
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\obj\Release\DAL.dll
+D:\slide\HK4\Nhập môn Công nghệ phần mềm - SE104.H24\đồ án\FullVersion\Báo cáo nhóm 06 SE104.H24\CayGiaPha\DAL\obj\Release\DAL.pdb
